@@ -4,3 +4,5 @@
 
 # Penjelasan Html, Css, dan javascript :
 ![Html](Html.png)
+![CSS](Css.png)
+![Java](Javascrpt.png)
